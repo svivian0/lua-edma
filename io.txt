@@ -12,3 +12,4 @@ Principais Funcionalidades e Funções:
         io.flush(): Salva alterações em memória diretamente no arquivo físico. 
 
 A biblioteca é dividida entre um modelo simples (padrão) e um modelo completo (manipuladores de arquivo). 
+substitui tudo
