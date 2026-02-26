@@ -1,3 +1,5 @@
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pKNmVyMlQyekFMUWlCaGVHSkVqMVUzVU9iZ3xBQ3Jtc0trTm55a05fcGlkZ01GSVk1WjZpaHcxdEZEb21KYWRXRklPRU1Gc2k2d3VZV3gwR21aNmQ5RThva2ZQcUtfanFHcVZIb01iMkFJMFotNGFHcGhRVHM2eE5vWWkzZWcyeVg1R1doNWR3Z0t2ZnBrNVdrQQ&q=https%3A%2F%2Fwww.lua.org%2Fmanual%2F5.4%2Fmanual.html%236.8&v=YhikxoG6Uro
+
 A biblioteca io em Lua é o módulo padrão para entrada e saída (I/O) de dados, permitindo ler/escrever arquivos (abrir, fechar, ler, gravar) e manipular a entrada/saída padrão (terminal). Ela oferece funções essenciais como io.open, io.read, io.write, io.close, io.input e io.output para manipulação de dados. 
 Principais Funcionalidades e Funções:
 
